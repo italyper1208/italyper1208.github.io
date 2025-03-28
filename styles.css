@@ -1,0 +1,14 @@
+body { 
+    text-align: center; 
+
+    background: rgb(9,9,121); 
+    background: linear-gradient(90deg, rgba(9,9,121,1) 21%, rgba(165, 163, 210, 1) 75%, rgba(0,212,255,0.556338028169014) 100%); 
+}
+
+img { 
+    width:400px; 
+} 
+p{ 
+        text-align: center;
+
+}
